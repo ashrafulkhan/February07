@@ -1,0 +1,15 @@
+package base;
+
+public class Hellow {
+	
+	
+	public static void main(String[] args) {
+		for(int i=0; i<=10; i++) {
+			System.out.println(" we are printing Hellow world : "+i);
+		}
+	}
+	
+	
+	
+
+}
